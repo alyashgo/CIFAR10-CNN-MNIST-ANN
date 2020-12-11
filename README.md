@@ -1,6 +1,6 @@
 # CNN for CIFAR-10 + ANN for MNIST w/ Regulatizations
 ## Disclaimer:
-This assignemnt is being done by
+This assignemnt was done by
   1) Abhinava Sikdar 2017MT10724 www.github.com/abhisikdar
   2) Yashank Singh 2017MT10756 www.github.com/alyashgo
 
